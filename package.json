@@ -7,7 +7,7 @@
     "test": ""
   },
   "dependencies": {
-    "underscore": "=1.4.3",
+    "underscore": "=1.13.8",
     "forever": "=0.10.0",
     "async": "~0.2.7",
     "colors": "~0.6.0-1",
